@@ -1,6 +1,6 @@
 I've moved the working repo for this game to https://github.com/flypup/duel-of-the-devs
 
-This fork will stay in the state is was submitted at the end of the game off event.
+This fork will stay in the state is was submitted at the end of the game off event. For more details on the work being done, check out [my blog](http://robwalch.com).
 
 # Duel to the Devs
 
