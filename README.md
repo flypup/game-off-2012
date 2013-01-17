@@ -1,3 +1,7 @@
+I've moved the working repo for this game to https://github.com/flypup/duel-of-the-devs
+
+This fork will stay in the state is was submitted at the end of the game off event.
+
 # Duel to the Devs
 
 Play the game [here](http://flypup.github.com/game-off-2012/). It's a [gh-pages](http://pages.github.com/) branch of this repo containing just the distribution files built with [yeoman](https://github.com/yeoman).
